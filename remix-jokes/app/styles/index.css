@@ -1,0 +1,9 @@
+body{
+    color:hsl(0,0%,100%);
+    background-image: radial-gradient(
+        circle,
+        rgb(49, 8, 199) 0%,
+        rgb(24, 3, 97) 35%,
+        rgb(12, 2, 49) 100%
+    );
+}
